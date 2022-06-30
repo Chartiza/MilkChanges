@@ -1,8 +1,8 @@
-# MilkChanges
+# 🐮 MilkChanges
 Investigation of DHI milk test parameters changing in time.
 
 ## Scripts
-- *Freez_exp.ipynb*
+🥶 *Freez_exp.ipynb*
 
 The script is designed to check DHI milk sample parameters changing before and after freezing. In wintertime, the samples could arrive in the DHI laboratory frozen. We asked the question if we can analyze these samples after heating or if irreversible changes in parameters have already taken place.
 
