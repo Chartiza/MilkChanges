@@ -8,13 +8,4 @@ The script is designed to check DHI milk sample parameters changing before and a
 
 As a result, you have Mean Values.pdf and Distr Values.pdf files with the plots that demonstrate parameters changing and the Freez_CorrMatr.jpg file with correlations between parameters.
 
-## Input
-You can always find raw input files in the Input folder. Input files for all scripts are in the same folder.
-
-## Results
-Results files for all scripts are in the results folder.
-
-## Authors
-Kateryna Pantiukh
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+![All-en](https://user-images.githubusercontent.com/15068419/176667968-5c2438c7-604e-460d-836a-da2af2d4c153.png)
