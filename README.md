@@ -26,4 +26,4 @@ Script is designed to calculate relative abundance of main fatty acids groups. <
 The raw data was taken from the DHI laboratory of AO Agroplem. The analysis was carried out on a FOSS machine. <br>
 A total of 13,107 animals from the Russian population of black-motley Holstein were analysed.
 
-![PUFA-rel](https://user-images.githubusercontent.com/15068419/176904555-eeb27c63-1e02-4c06-a0c2-ddbf84a2b8a3.png)
+![MUFA-rel](https://user-images.githubusercontent.com/15068419/176905563-26649c14-c146-4d65-93cf-c5d07a8b09f4.png)
