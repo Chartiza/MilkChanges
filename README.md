@@ -11,6 +11,21 @@ As a result, you have Mean Values.pdf and Distr Values.pdf files with the plots 
 ![All-en](https://user-images.githubusercontent.com/15068419/176672484-d6faa6e8-8991-49ba-87e7-4cae824f2d22.png)
 
 ## 
+🧮 *СorrectionСoefficients.ipynb*
+
+Script is designed to Comparison of test results of the same milk samples in two different laboratories. The raw data was taken from the DHI laboratory of AO Agroplem and one other DHI laboratory. The analysis was carried out on a FOSS machine and Bently machine. 
+
+<i>Conclusion: </i><br>
+We observe a sufficiently high correlation for parameters such as fat, protein and Lactose. <br>
+We observe a low correlation for parameters BGB, acetone, FPD.
+
+Fat, % 
+
+ Slope = 0.839 <br>
+ Intersept = 0.5 <br>
+ R2 = 0.93 
+
+## 
 🌡 *FOSS_temp.ipynb*
 
 The script is designed to evaluate correlation between the real probe temperature measured by the logger and the FOSS temperature evaluation.The main objective is to find correction coefficients that can be entered into the standard data processing protocol fo the instrument.<br>
