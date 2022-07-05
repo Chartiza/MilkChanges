@@ -10,6 +10,16 @@ As a result, you have Mean Values.pdf and Distr Values.pdf files with the plots 
 
 ![All-en](https://user-images.githubusercontent.com/15068419/176672484-d6faa6e8-8991-49ba-87e7-4cae824f2d22.png)
 
+## 
+🌡 *FOSS_temp.ipynb*
+
+The script is designed to evaluate correlation between the real probe temperature measured by the logger and the FOSS temperature evaluation.The main objective is to find correction coefficients that can be entered into the standard data processing protocol fo the instrument.<br>
+
+<i>Conclusion: </i><br>
+the difference in temperature depends on the day of the experiment (apparently on the ambient temperature in the laboratory). More research is needed to clarify the coefficients.
+
+![FOSS-temp](https://user-images.githubusercontent.com/15068419/177305805-8a82746c-38e4-485b-8e11-5e431df55f9e.png)
+
 ##
 🥛 *FattyAcid_ratios.ipynb*
 
