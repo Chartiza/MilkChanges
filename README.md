@@ -26,6 +26,16 @@ Fat, %
  R2 = 0.93 
 
 ## 
+👀 *Comparison_evaluation&real_data.ipynb*
+
+The script is designed to compare evaluation and real data results.
+
+<i>Conclusion: </i><br>
+next year's milk and protein evaluations are higher on average, but the real values are not. Possible reason for poor management?
+
+![Yeld_comp](https://user-images.githubusercontent.com/15068419/179762252-a2993d9b-4403-4f2b-b5d3-1836c9b8376b.jpg)
+
+## 
 🌡 *FOSS_temp.ipynb*
 
 The script is designed to evaluate correlation between the real probe temperature measured by the logger and the FOSS temperature evaluation.The main objective is to find correction coefficients that can be entered into the standard data processing protocol fo the instrument.<br>
