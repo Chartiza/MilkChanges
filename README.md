@@ -1,5 +1,11 @@
 # 🐮 MilkDHI
-As a lab manager, I implemented data-driven solutions into daily lab practice. Here are some examples of RnD that have been done to improve the quality of the results provided by my lab.
+As a head of DHI laboratory, I implemented data-driven solutions into daily lab practice. Here are some examples of RnD that have been done to improve the quality of the results provided by my lab.
+
+DHI (Dairy Herd Improvement) milk laboratory is a specialized facility that performs various tests and analyses on milk samples from dairy farms. The primary goal of DHI milk laboratories is to help farmers improve the productivity and quality of their dairy herds by providing them with accurate and timely information about their milk production.
+
+The work of DHI milk laboratories typically involves the following tasks:
+- Milk testing: DHI milk laboratories test milk samples for a range of parameters, including fat, protein, lactose, somatic cell count, and bacterial count. These tests help farmers to monitor the quality and composition of their milk and identify any potential issues that may impact milk production.
+- Herd management: DHI milk laboratories also help farmers to manage their dairy herds more effectively by providing them with information about individual cow performance, such as milk yield, reproductive status, and health status. This information can be used to make informed decisions about breeding, culling, and other herd management practices.
 
 ## Scripts
 🥶 *Freez_exp.ipynb*
