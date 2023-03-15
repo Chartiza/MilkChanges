@@ -1,5 +1,5 @@
 # 🐮 MilkDHI
-Investigation of milk parameters from the DHI laboratory of AO Agroplem.
+As a lab manager, I implemented data-driven solutions into daily lab practice. Here are some examples of RnD that have been done to improve the quality of the results provided by my lab.
 
 ## Scripts
 🥶 *Freez_exp.ipynb*
